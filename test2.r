@@ -1,0 +1,1 @@
+#This is a file were i input the language automatically when creating a new file
